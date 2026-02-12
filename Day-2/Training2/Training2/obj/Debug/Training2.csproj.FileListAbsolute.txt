@@ -1,0 +1,7 @@
+D:\Wipro\Day-2\Training2\Training2\bin\Debug\Training2.exe.config
+D:\Wipro\Day-2\Training2\Training2\bin\Debug\Training2.exe
+D:\Wipro\Day-2\Training2\Training2\bin\Debug\Training2.pdb
+D:\Wipro\Day-2\Training2\Training2\obj\Debug\Training2.csproj.AssemblyReference.cache
+D:\Wipro\Day-2\Training2\Training2\obj\Debug\Training2.csproj.CoreCompileInputs.cache
+D:\Wipro\Day-2\Training2\Training2\obj\Debug\Training2.exe
+D:\Wipro\Day-2\Training2\Training2\obj\Debug\Training2.pdb
