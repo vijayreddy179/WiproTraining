@@ -1,0 +1,6 @@
+D:\Wipro\Day-3\ClsCalculation\bin\Debug\ClsCalculation.dll
+D:\Wipro\Day-3\ClsCalculation\bin\Debug\ClsCalculation.pdb
+D:\Wipro\Day-3\ClsCalculation\obj\Debug\ClsCalculation.csproj.AssemblyReference.cache
+D:\Wipro\Day-3\ClsCalculation\obj\Debug\ClsCalculation.csproj.CoreCompileInputs.cache
+D:\Wipro\Day-3\ClsCalculation\obj\Debug\ClsCalculation.dll
+D:\Wipro\Day-3\ClsCalculation\obj\Debug\ClsCalculation.pdb

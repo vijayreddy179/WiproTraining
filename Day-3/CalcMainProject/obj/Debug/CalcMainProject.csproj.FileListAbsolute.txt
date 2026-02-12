@@ -1,0 +1,10 @@
+D:\Wipro\Day-3\CalcMainProject\bin\Debug\CalcMainProject.exe.config
+D:\Wipro\Day-3\CalcMainProject\bin\Debug\CalcMainProject.exe
+D:\Wipro\Day-3\CalcMainProject\bin\Debug\CalcMainProject.pdb
+D:\Wipro\Day-3\CalcMainProject\bin\Debug\ClsCalculation.dll
+D:\Wipro\Day-3\CalcMainProject\bin\Debug\ClsCalculation.pdb
+D:\Wipro\Day-3\CalcMainProject\obj\Debug\CalcMainProject.csproj.AssemblyReference.cache
+D:\Wipro\Day-3\CalcMainProject\obj\Debug\CalcMainProject.csproj.CoreCompileInputs.cache
+D:\Wipro\Day-3\CalcMainProject\obj\Debug\CalcMain.13DE87FE.Up2Date
+D:\Wipro\Day-3\CalcMainProject\obj\Debug\CalcMainProject.exe
+D:\Wipro\Day-3\CalcMainProject\obj\Debug\CalcMainProject.pdb
