@@ -1,7 +1,0 @@
-D:\Wipro\Exercises\Exercises\Exercises\bin\Debug\Exercises.exe.config
-D:\Wipro\Exercises\Exercises\Exercises\bin\Debug\Exercises.exe
-D:\Wipro\Exercises\Exercises\Exercises\bin\Debug\Exercises.pdb
-D:\Wipro\Exercises\Exercises\Exercises\obj\Debug\Exercises.csproj.AssemblyReference.cache
-D:\Wipro\Exercises\Exercises\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
-D:\Wipro\Exercises\Exercises\Exercises\obj\Debug\Exercises.exe
-D:\Wipro\Exercises\Exercises\Exercises\obj\Debug\Exercises.pdb
