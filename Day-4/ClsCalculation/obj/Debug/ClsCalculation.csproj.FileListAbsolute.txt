@@ -1,0 +1,6 @@
+D:\Wipro\Day-4\ClsCalculation\bin\Debug\ClsCalculation.pdb
+D:\Wipro\Day-4\ClsCalculation\obj\Debug\ClsCalculation.csproj.AssemblyReference.cache
+D:\Wipro\Day-4\ClsCalculation\obj\Debug\ClsCalculation.csproj.CoreCompileInputs.cache
+D:\Wipro\Day-4\ClsCalculation\obj\Debug\ClsCalculation.dll
+D:\Wipro\Day-4\ClsCalculation\obj\Debug\ClsCalculation.pdb
+D:\Wipro\Day-4\ClsCalculation\obj\Debug\ClsCalcu.208A4C46.Up2Date

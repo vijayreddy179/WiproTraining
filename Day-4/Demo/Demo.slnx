@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../CalcMain/CalcMain.csproj" Id="1672a2db-66f1-4445-bd7f-5bf90572a0b3" />
+  <Project Path="../ClsCalculation/ClsCalculation.csproj" Id="78fc71ff-3d33-4c20-8785-fcf461d30854" />
+  <Project Path="Demo/Demo.csproj" Id="d78fa545-1caa-4691-9990-c1f03245dba1" />
+</Solution>
