@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ClsCalculation/ClsCalculation.csproj" />
+  <Project Path="OOPSExample/OOPSExample.csproj" />
+</Solution>

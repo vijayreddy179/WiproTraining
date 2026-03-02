@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../AttributesExamples/AttributesExamples.csproj" Id="485400cf-d9d4-4549-9f13-4e3065e0d7c8" />
+  <Project Path="../ClsReflectionExample1/ClsReflectionExample1.csproj" Id="525b82c3-0063-4ec6-8edb-3f4c59c16673" />
+  <Project Path="../ClsReflectionExample3/ClsReflectionExample3.csproj" Id="8fc1a131-e2e9-41af-8d97-392d26bbc3e1" />
+  <Project Path="../CustomAttributes/CustomAttributes.csproj" Id="5a153061-ae11-4930-911c-5a54b98fb0ff" />
+  <Project Path="../ReflectionExamples/ReflectionExamples.csproj" Id="5e0d9809-dc6a-4191-a365-f82f073cec21" />
+  <Project Path="LambdaExpression/LambdaExpression.csproj" Id="619c3c2a-a5e6-499a-bc2a-0fef7c8cc06e" />
+</Solution>

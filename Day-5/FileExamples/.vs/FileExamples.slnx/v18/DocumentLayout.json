@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro\\Day-5\\FileExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|d:\\wipro\\day-5\\fileexamples\\fileexamples\\ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|solutionrelative:fileexamples\\ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|D:\\Wipro\\Day-5\\FileExamples\\fileexamples\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|solutionrelative:fileexamples\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|D:\\Wipro\\Day-5\\FileExamples\\fileexamples\\votingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|solutionrelative:fileexamples\\votingexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|D:\\Wipro\\Day-5\\FileExamples\\fileexamples\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|solutionrelative:fileexamples\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|D:\\Wipro\\Day-5\\FileExamples\\fileexamples\\numberzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|solutionrelative:fileexamples\\numberzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|D:\\Wipro\\Day-5\\FileExamples\\fileexamples\\negativeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|solutionrelative:fileexamples\\negativeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|D:\\Wipro\\Day-5\\FileExamples\\fileexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7C84A3-0025-4EDB-80AF-E9C504AA539D}|FileExamples\\FileExamples.csproj|solutionrelative:fileexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex.cs",
+              "DocumentMoniker": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\Ex.cs",
+              "RelativeDocumentMoniker": "FileExamples\\Ex.cs",
+              "ToolTip": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\Ex.cs",
+              "RelativeToolTip": "FileExamples\\Ex.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T11:04:16.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VotingException.cs",
+              "DocumentMoniker": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\VotingException.cs",
+              "RelativeDocumentMoniker": "FileExamples\\VotingException.cs",
+              "ToolTip": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\VotingException.cs",
+              "RelativeToolTip": "FileExamples\\VotingException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:04:44.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voting.cs",
+              "DocumentMoniker": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\Voting.cs",
+              "RelativeDocumentMoniker": "FileExamples\\Voting.cs",
+              "ToolTip": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\Voting.cs",
+              "RelativeToolTip": "FileExamples\\Voting.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwBgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:04:18.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NumberZeroException.cs",
+              "DocumentMoniker": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\NumberZeroException.cs",
+              "RelativeDocumentMoniker": "FileExamples\\NumberZeroException.cs",
+              "ToolTip": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\NumberZeroException.cs",
+              "RelativeToolTip": "FileExamples\\NumberZeroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:02:39.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NegativeException.cs",
+              "DocumentMoniker": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\NegativeException.cs",
+              "RelativeDocumentMoniker": "FileExamples\\NegativeException.cs",
+              "ToolTip": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\NegativeException.cs",
+              "RelativeToolTip": "FileExamples\\NegativeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:01:57.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\Calculation.cs",
+              "RelativeDocumentMoniker": "FileExamples\\Calculation.cs",
+              "ToolTip": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\Calculation.cs",
+              "RelativeToolTip": "FileExamples\\Calculation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:00:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\Program.cs",
+              "RelativeDocumentMoniker": "FileExamples\\Program.cs",
+              "ToolTip": "D:\\Wipro\\Day-5\\FileExamples\\FileExamples\\Program.cs",
+              "RelativeToolTip": "FileExamples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T08:51:40.384Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

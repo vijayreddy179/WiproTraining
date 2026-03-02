@@ -1,0 +1,55 @@
+USE master;
+GO
+
+IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'Wipro26')
+BEGIN
+    ALTER DATABASE Wipro26 SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE Wipro26;
+END
+GO
+
+CREATE DATABASE Wipro26;
+GO
+
+USE Wipro26;
+GO
+
+IF OBJECT_ID('Employ','U') IS NOT NULL
+    DROP TABLE Employ;
+GO
+
+CREATE TABLE Employ
+(
+    Empno INT CONSTRAINT PK_Employ PRIMARY KEY,
+    Name VARCHAR(30) NOT NULL,
+    Gender VARCHAR(10) CHECK (Gender IN ('MALE','FEMALE')),
+    Dept VARCHAR(20) CHECK (Dept IN ('JAVA','SQL','DOTNET')),
+    Desig VARCHAR(20) CHECK (Desig IN ('MANAGER','TEAMLEAD','DEVELOPER')),
+    Basic NUMERIC(9,2) CHECK (Basic BETWEEN 10000 AND 100000)
+);
+GO
+
+INSERT INTO Employ VALUES
+(1,'Abhishek','MALE','JAVA','DEVELOPER',88234),
+(2,'Tushar','MALE','DOTNET','MANAGER',88222),
+(3,'Ganesh','MALE','DOTNET','TEAMLEAD',97722),
+(4,'Karthik','MALE','JAVA','DEVELOPER',77722),
+(5,'Yash','MALE','SQL','MANAGER',88722),
+(6,'Mythri','FEMALE','JAVA','DEVELOPER',88822),
+(7,'Sanvi','FEMALE','DOTNET','MANAGER',82355);
+GO
+
+CREATE TABLE LeaveDetails
+(
+    LeaveId INT IDENTITY PRIMARY KEY,
+    Empno INT REFERENCES Employ(Empno),
+    LeaveStartDate DATE,
+    LeaveEndDate DATE,
+    LeaveReason VARCHAR(30)
+);
+GO
+
+INSERT INTO LeaveDetails VALUES
+(1,'2026-01-01','2026-01-03','Going Home'),
+(7,'2026-01-06','2026-01-10','Exams');
+GO
