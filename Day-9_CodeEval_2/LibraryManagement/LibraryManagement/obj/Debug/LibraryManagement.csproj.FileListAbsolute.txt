@@ -1,0 +1,6 @@
+D:\Assignments\Day-9_2\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.dll
+D:\Assignments\Day-9_2\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\Assignments\Day-9_2\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+D:\Assignments\Day-9_2\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Assignments\Day-9_2\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.dll
+D:\Assignments\Day-9_2\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E4C03216-570C-489B-B484-8B216C81F3C8}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>SolidPrinciplesDemo</RootNamespace>
+    <AssemblyName>SolidPrinciplesDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DesignPattern\DocumentFactory.cs" />
+    <Compile Include="DesignPattern\IDocument.cs" />
+    <Compile Include="DesignPattern\IObserve.cs" />
+    <Compile Include="DesignPattern\Logger.cs" />
+    <Compile Include="DesignPattern\PdfDocument.cs" />
+    <Compile Include="DesignPattern\WeatherDisplay.cs" />
+    <Compile Include="DesignPattern\WeatherStation.cs" />
+    <Compile Include="DesignPattern\WordDocument.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solid\AuditReport.cs" />
+    <Compile Include="Solid\DatabaseSource.cs" />
+    <Compile Include="Solid\ExcelFormatter.cs" />
+    <Compile Include="Solid\IDataSource.cs" />
+    <Compile Include="Solid\IPrintable.cs" />
+    <Compile Include="Solid\IReadable.cs" />
+    <Compile Include="Solid\IReportFormatter.cs" />
+    <Compile Include="Solid\OnlineReport.cs" />
+    <Compile Include="Solid\PdfFormatter.cs" />
+    <Compile Include="Solid\PrintableReport.cs" />
+    <Compile Include="Solid\Report.cs" />
+    <Compile Include="Solid\ReportFormatter.cs" />
+    <Compile Include="Solid\ReportGenerator.cs" />
+    <Compile Include="Solid\ReportManager.cs" />
+    <Compile Include="Solid\ReportSaver.cs" />
+    <Compile Include="Solid\ReportService.cs" />
+    <Compile Include="Solid\SalesReport.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

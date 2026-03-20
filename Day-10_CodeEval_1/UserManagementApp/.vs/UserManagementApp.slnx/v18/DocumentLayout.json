@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignments\\Day-10_1\\UserManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65F0E81D-4B06-4F0C-A92E-6A488A7B541E}|..\\UserManagementTests\\UserManagementTests.csproj|d:\\assignments\\day-10_1\\usermanagementtests\\encryptiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F0E81D-4B06-4F0C-A92E-6A488A7B541E}|..\\UserManagementTests\\UserManagementTests.csproj|d:\\assignments\\day-10_1\\usermanagementtests\\authtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|d:\\assignments\\day-10_1\\usermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|d:\\assignments\\day-10_1\\usermanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|d:\\assignments\\day-10_1\\usermanagementapp\\services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|solutionrelative:services\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|d:\\assignments\\day-10_1\\usermanagementapp\\services\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|solutionrelative:services\\encryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|d:\\assignments\\day-10_1\\usermanagementapp\\services\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CEA35A-4669-4BB8-9567-FF1690283064}|UserManagementApp.csproj|solutionrelative:services\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptionTests.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_1\\UserManagementTests\\EncryptionTests.cs",
+              "RelativeDocumentMoniker": "..\\UserManagementTests\\EncryptionTests.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_1\\UserManagementTests\\EncryptionTests.cs",
+              "RelativeToolTip": "..\\UserManagementTests\\EncryptionTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:01:35.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthTests.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_1\\UserManagementTests\\AuthTests.cs",
+              "RelativeDocumentMoniker": "..\\UserManagementTests\\AuthTests.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_1\\UserManagementTests\\AuthTests.cs",
+              "RelativeToolTip": "..\\UserManagementTests\\AuthTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T12:01:15.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logging.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Services\\Logging.cs",
+              "RelativeDocumentMoniker": "Services\\Logging.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Services\\Logging.cs",
+              "RelativeToolTip": "Services\\Logging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:52:22.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Encryption.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Services\\Encryption.cs",
+              "RelativeDocumentMoniker": "Services\\Encryption.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Services\\Encryption.cs",
+              "RelativeToolTip": "Services\\Encryption.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:52:13.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Services\\Authentication.cs",
+              "RelativeDocumentMoniker": "Services\\Authentication.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Services\\Authentication.cs",
+              "RelativeToolTip": "Services\\Authentication.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:50:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:50:01.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_1\\UserManagementApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T11:49:14.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

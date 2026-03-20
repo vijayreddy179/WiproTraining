@@ -1,0 +1,133 @@
+Question 1
+
+Top Revenue Categories and Average Revenues
+Write a query to determine the top 5 categories by total revenue and compare their average revenues to the overall average revenue of films in the database.
+
+
+
+Sample Output:
+
+Category_id	name	total_revenue	percentage_of_overall_avg_revenue
+15	Sports	5314.21	126.141076
+14	Sci-Fi	4756.98	112.914351
+Your answer
+
+WITH category_revenue AS (
+    SELECT 
+        c.category_id,
+        c.name,
+        SUM(p.amount) AS total_revenue,
+        AVG(p.amount) AS avg_revenue_per_payment
+    FROM category c
+    JOIN film_category fc 
+        ON c.category_id = fc.category_id
+    JOIN film f 
+        ON fc.film_id = f.film_id
+    JOIN inventory i 
+        ON f.film_id = i.film_id
+    JOIN rental r 
+        ON i.inventory_id = r.inventory_id
+    JOIN payment p 
+        ON r.rental_id = p.rental_id
+    GROUP BY c.category_id, c.name
+),
+overall_avg AS (
+    SELECT AVG(amount) AS overall_avg_revenue
+    FROM payment
+)
+
+SELECT 
+    cr.category_id,
+    cr.name,
+    cr.total_revenue,
+    (cr.avg_revenue_per_payment / oa.overall_avg_revenue) * 100 
+        AS percentage_of_overall_avg_revenue
+FROM category_revenue cr
+CROSS JOIN overall_avg oa
+ORDER BY percentage_of_overall_avg_revenue DESC
+LIMIT 5;
+
+
+
+
+Question 2
+
+Employee Salaries Details
+
+
+You are given two tables: Employees and Salaries. The Employees table contains the details of employees in a company, and the Salaries table contains their salary information.
+
+
+
+Employees Table:
+
+
+
+
+
+
+Salaries Table:
+
+
+
+
+Write a query to find the average salary of employees in each department, but only include departments where the average salary is greater than 50000.
+
+
+
+Your answer
+
+SELECT 
+    e.DeptID,
+    AVG(s.Salary) AS AvgSalary
+FROM Employees e
+JOIN Salaries s 
+    ON e.EmpID = s.EmpID
+GROUP BY e.DeptID
+HAVING AVG(s.Salary) > 50000
+ORDER BY e.DeptID;
+
+
+
+
+Question 3
+
+Top Films by Number of Rentals
+Write a query to determine the top 3 films in terms of the number of rentals in each store.
+
+
+
+Sample Output:
+
+store_id	flim_id	title	rental_count
+1	535	LOVE SUICIDES	20
+2	55	BARBARELLA STREETCAR	18
+Your answer
+
+-- Write your query below
+WITH film_rentals AS (
+    SELECT 
+        i.store_id,
+        f.film_id,
+        f.title,
+        COUNT(r.rental_id) AS rental_count,
+        ROW_NUMBER() OVER (
+            PARTITION BY i.store_id 
+            ORDER BY COUNT(r.rental_id) DESC
+        ) AS rn
+    FROM rental r
+    JOIN inventory i 
+        ON r.inventory_id = i.inventory_id
+    JOIN film f 
+        ON i.film_id = f.film_id
+    GROUP BY i.store_id, f.film_id, f.title
+)
+
+SELECT 
+    store_id,
+    film_id,
+    title,
+    rental_count
+FROM film_rentals
+WHERE rn <= 3
+ORDER BY store_id, rental_count DESC;

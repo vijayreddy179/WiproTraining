@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\designpattern\\weatherdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:designpattern\\weatherdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\designpattern\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:designpattern\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\designpattern\\iobserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:designpattern\\iobserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\designpattern\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:designpattern\\documentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\designpattern\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:designpattern\\worddocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\designpattern\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:designpattern\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\designpattern\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:designpattern\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\designpattern\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:designpattern\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\databasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\databasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\idatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\idatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\printablereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\printablereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\onlinereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\onlinereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\iprintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\auditreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\auditreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\reportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\reportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\excelformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\pdfformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\ireportformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\reportsaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\solid\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:solid\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|d:\\assignments\\day-10_2\\solidprinciplesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C03216-570C-489B-B484-8B216C81F3C8}|SolidPrinciplesDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherDisplay.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\WeatherDisplay.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\WeatherDisplay.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\WeatherDisplay.cs",
+              "RelativeToolTip": "DesignPattern\\WeatherDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:45:20.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherStation.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\WeatherStation.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\WeatherStation.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\WeatherStation.cs",
+              "RelativeToolTip": "DesignPattern\\WeatherStation.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA4wCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:44:56.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IObserve.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\IObserve.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\IObserve.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\IObserve.cs",
+              "RelativeToolTip": "DesignPattern\\IObserve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:44:30.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentFactory.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\DocumentFactory.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\DocumentFactory.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\DocumentFactory.cs",
+              "RelativeToolTip": "DesignPattern\\DocumentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:43:53.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordDocument.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\WordDocument.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\WordDocument.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\WordDocument.cs",
+              "RelativeToolTip": "DesignPattern\\WordDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:43:33.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\PdfDocument.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\PdfDocument.cs",
+              "RelativeToolTip": "DesignPattern\\PdfDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:43:11.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\IDocument.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\IDocument.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\IDocument.cs",
+              "RelativeToolTip": "DesignPattern\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:42:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\Logger.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Logger.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\DesignPattern\\Logger.cs",
+              "RelativeToolTip": "DesignPattern\\Logger.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:42:17.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportService.cs",
+              "RelativeDocumentMoniker": "Solid\\ReportService.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportService.cs",
+              "RelativeToolTip": "Solid\\ReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:41:34.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseSource.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\DatabaseSource.cs",
+              "RelativeDocumentMoniker": "Solid\\DatabaseSource.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\DatabaseSource.cs",
+              "RelativeToolTip": "Solid\\DatabaseSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:41:10.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDataSource.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\IDataSource.cs",
+              "RelativeDocumentMoniker": "Solid\\IDataSource.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\IDataSource.cs",
+              "RelativeToolTip": "Solid\\IDataSource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:40:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrintableReport.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\PrintableReport.cs",
+              "RelativeDocumentMoniker": "Solid\\PrintableReport.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\PrintableReport.cs",
+              "RelativeToolTip": "Solid\\PrintableReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:40:17.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OnlineReport.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\OnlineReport.cs",
+              "RelativeDocumentMoniker": "Solid\\OnlineReport.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\OnlineReport.cs",
+              "RelativeToolTip": "Solid\\OnlineReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:39:56.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPrintable.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\IPrintable.cs",
+              "RelativeDocumentMoniker": "Solid\\IPrintable.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\IPrintable.cs",
+              "RelativeToolTip": "Solid\\IPrintable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:39:29.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IReadable.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\IReadable.cs",
+              "RelativeDocumentMoniker": "Solid\\IReadable.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\IReadable.cs",
+              "RelativeToolTip": "Solid\\IReadable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:39:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuditReport.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\AuditReport.cs",
+              "RelativeDocumentMoniker": "Solid\\AuditReport.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\AuditReport.cs",
+              "RelativeToolTip": "Solid\\AuditReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:37:44.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SalesReport.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\SalesReport.cs",
+              "RelativeDocumentMoniker": "Solid\\SalesReport.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\SalesReport.cs",
+              "RelativeToolTip": "Solid\\SalesReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:37:14.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\Report.cs",
+              "RelativeDocumentMoniker": "Solid\\Report.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\Report.cs",
+              "RelativeToolTip": "Solid\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:34:35.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportFormatter.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportFormatter.cs",
+              "RelativeDocumentMoniker": "Solid\\ReportFormatter.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportFormatter.cs",
+              "RelativeToolTip": "Solid\\ReportFormatter.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:34:10.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ExcelFormatter.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ExcelFormatter.cs",
+              "RelativeDocumentMoniker": "Solid\\ExcelFormatter.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ExcelFormatter.cs",
+              "RelativeToolTip": "Solid\\ExcelFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:33:48.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PdfFormatter.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\PdfFormatter.cs",
+              "RelativeDocumentMoniker": "Solid\\PdfFormatter.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\PdfFormatter.cs",
+              "RelativeToolTip": "Solid\\PdfFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:33:15.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IReportFormatter.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\IReportFormatter.cs",
+              "RelativeDocumentMoniker": "Solid\\IReportFormatter.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\IReportFormatter.cs",
+              "RelativeToolTip": "Solid\\IReportFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:32:44.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReportSaver.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportSaver.cs",
+              "RelativeDocumentMoniker": "Solid\\ReportSaver.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportSaver.cs",
+              "RelativeToolTip": "Solid\\ReportSaver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:31:56.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "Solid\\ReportGenerator.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportGenerator.cs",
+              "RelativeToolTip": "Solid\\ReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:31:31.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Solid\\ReportManager.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Solid\\ReportManager.cs",
+              "RelativeToolTip": "Solid\\ReportManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:31:01.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Assignments\\Day-10_2\\SolidPrinciplesDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:28:27.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

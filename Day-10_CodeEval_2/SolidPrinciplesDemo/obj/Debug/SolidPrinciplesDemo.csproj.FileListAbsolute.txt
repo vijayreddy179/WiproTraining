@@ -1,0 +1,7 @@
+D:\Assignments\Day-10_2\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.exe.config
+D:\Assignments\Day-10_2\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.exe
+D:\Assignments\Day-10_2\SolidPrinciplesDemo\bin\Debug\SolidPrinciplesDemo.pdb
+D:\Assignments\Day-10_2\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.csproj.AssemblyReference.cache
+D:\Assignments\Day-10_2\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.csproj.CoreCompileInputs.cache
+D:\Assignments\Day-10_2\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.exe
+D:\Assignments\Day-10_2\SolidPrinciplesDemo\obj\Debug\SolidPrinciplesDemo.pdb
